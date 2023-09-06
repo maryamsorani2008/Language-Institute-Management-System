@@ -2,10 +2,10 @@
 
 1.Our project is about Language Schools management📒🗞️.
 
-This is our first group project💎🖌️👥.
+2.This is our first group project💎🖌️👥.
 
-We are learning C#🎓📒.
+3.We are learning C#🎓📒.
 
-We are from Iran🗺️🛤️🧭.
+4.We are from Iran🗺️🛤️🧭.
 
-Wishing success to all junior and senior programmers in the world🛤️🧭✨🌍.
+5.Wishing success to all junior and senior programmers in the world🛤️🧭✨🌍.
