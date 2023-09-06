@@ -4,7 +4,7 @@
 
 2.This is our first group project💎🖌️👥.
 
-3.We are learning C#🎓📒.
+3.We are learning C#🎓📒.Our teacher is: alimohammadi2005✍️📈.
 
 4.We are from Iran🗺️🛤️🧭.
 
