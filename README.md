@@ -1,2 +1,2 @@
-# Library-Management-System
-Our project is about library management📚.
+# Language-Schools-Management-System
+Our project is about Language Schools management📚✏️📑.
