@@ -1,2 +1,3 @@
 # Language-Schools-Management-System
-Our project is about Language Schools management📚✏️📑.
+1.Our project is about Language Schools management📚✏️📑.
+                                                                       1. پروژه ی ما درباره ی مدریت اموزشگاه های زبان است📚✏️📑
