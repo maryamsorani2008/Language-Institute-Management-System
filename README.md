@@ -6,9 +6,9 @@
 
 my teammate: https://github.com/maryamsorani2008 .👥📈.
 
-me: https://github.com/Asmajamshidin2007.👥📈.
+me: https://github.com/Asmajamshidin2007 .👥📈.
 
-3.We are learning C#🎓📒.Our teacher is: alimohammadi2005✍️📈.
+3.We are learning C#🎓📒.Our teacher is: Ali Mohammad✍️📈.
 
 4.His github account: https://github.com/alimohammadi2005 .✒️🎓.
 
