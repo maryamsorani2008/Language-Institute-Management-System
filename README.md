@@ -30,7 +30,7 @@ I am also responsible for logic.🤔🧠.
 
  # We are learning C#🎓📒.
 
- Our teacher is: Ali Mohammad✍️📈.
+ Our teacher is: Ali Mohammadi✍️📈.
 
  His github account: https://github.com/alimohammadi2005 .✒️🎓.
 
