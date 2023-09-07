@@ -11,9 +11,11 @@ I am also responsible for logic.🤔🧠.
 
 # This is our first group project💎🖌️👥.
 
- my teammate: https://github.com/maryamsorani2008 .👥📈.
+ Maryam sorani: https://github.com/maryamsorani2008 .👥📈.
 
- me: https://github.com/Asmajamshidin2007 .👥📈.
+ Asma jamshidian: https://github.com/Asmajamshidin2007 .👥📈.
+
+ Ilya Afshar:The desired teammate is not available😂😁.
 
 
 # We are learning C#🎓📒.
