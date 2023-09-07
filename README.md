@@ -27,4 +27,6 @@ I am also responsible for logic.🤔🧠.
 
  We are from Iran🗺️🛤️🧭.
 
+ We are junior programmers🌍👻🤵‍♀️🤵‍♂️🤵‍♀️.
+
  Wishing success to all junior and senior programmers in the world🛤️🧭✨🌍.
