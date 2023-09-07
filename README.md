@@ -30,13 +30,13 @@
 
 # This is our first group project💎🖌️👥.
 
-→ Maryam sorani: https://github.com/maryamsorani2008 .👥📈.
+→ Maryam sorani: https://github.com/maryamsorani2008 .👩‍💻📈.
 
-→ Asma jamshidian: https://github.com/Asmajamshidin2007 .👥📈.
+→ Asma jamshidian: https://github.com/Asmajamshidin2007 .👩‍💻📈.
 
-→ Ilya Afshar:The desired teammate is not available😂.
+→ Ilya Afshar:The desired teammate is not available🧑‍💻😂.
  
- I don't know why he shouldn't be available now🤵‍♂️🤔.
+ I don't know why he shouldn't be available now🙄.
 
 
 
@@ -52,7 +52,7 @@
 
 → Our teacher is:Mr.Ali Mohammadi✍️📈.
 
-→ His github account: https://github.com/alimohammadi2005 .✒️🎓.
+→ His github account: https://github.com/alimohammadi2005 .🧑‍💻🎓.
 
  
 
