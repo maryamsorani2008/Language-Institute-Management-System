@@ -18,17 +18,18 @@ I am also responsible for logic.🤔🧠.
  Ilya Afshar:The desired teammate is not available😂😁.
 
 
-# We are learning C#🎓📒.
 
- Our teacher is: Ali Mohammad✍️📈.
-
- His github account: https://github.com/alimohammadi2005 .✒️🎓.
-
-
-# about us👥🤔:
+## about us👥🤔:
 
  We are from Iran🗺️🛤️🧭.
 
  We are junior programmers🌍👻🤵‍♀️🤵‍♂️🤵‍♀️.
 
  Wishing success to all junior and senior programmers in the world🛤️🧭✨🌍.
+
+ # We are learning C#🎓📒.
+
+ Our teacher is: Ali Mohammad✍️📈.
+
+ His github account: https://github.com/alimohammadi2005 .✒️🎓.
+
