@@ -44,7 +44,7 @@
 
 → We are from Iran🗺️🛤️🧭.
 
-→ We are junior programmers🌍👻🤵‍♀️🤵‍♂️🤵‍♀️.
+→ We are junior programmers🌍🤵‍♀️🤵‍♂️🤵‍♀️.
 
 
 
