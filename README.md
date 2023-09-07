@@ -1,6 +1,6 @@
-# Language-Schools-Management-System📚✏️📑.
+# Language-Institute-Management-System📚✏️📑.
 
-→ Our project is about Language Schools management:
+→ Our project is about Language Institute management:
 
 → Maryam Sorani is responsible for the user interface🤳.
 
