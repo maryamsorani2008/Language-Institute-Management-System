@@ -2,6 +2,10 @@
 
 1.Our project is about Language Schools management📒🗞️.
 
+Miss. Sorani is responsible for the user interface🙇‍♀️🤳.
+Mr.Afshar responsible for the database.📈💾.
+I am also responsible for logic.🤔🧠.
+
 2.This is our first group project💎🖌️👥.
 
 my teammate: https://github.com/maryamsorani2008 .👥📈.
