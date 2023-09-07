@@ -16,7 +16,7 @@ I am also responsible for logic.🤔🧠.
  me: https://github.com/Asmajamshidin2007 .👥📈.
 
 
-# We are learning C#🎓📒
+# We are learning C#🎓📒.
 
  Our teacher is: Ali Mohammad✍️📈.
 
