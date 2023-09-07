@@ -11,7 +11,7 @@
 
 # What is our goal for this project?🎓🎖️
 
-→ learn the following topics:
+→ learning the following topics:
 
 ↻ Database creation(SQL Server)🛢️
 
