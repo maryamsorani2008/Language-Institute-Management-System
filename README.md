@@ -1,6 +1,6 @@
 # Language-Schools-Management-System📚✏️📑.
 
-1.Our project is about Language Schools management📒🗞️:
+Our project is about Language Schools management📒🗞️:
 
 Miss. Sorani is responsible for the user interface🙇‍♀️🤳.
 
@@ -16,10 +16,10 @@ I am also responsible for logic.🤔🧠.
 
 # We are learning C#🎓📒
 
-.Our teacher is: Ali Mohammad✍️📈.
+ Our teacher is: Ali Mohammad✍️📈.
 
-4.His github account: https://github.com/alimohammadi2005 .✒️🎓.
+ His github account: https://github.com/alimohammadi2005 .✒️🎓.
 
-5.We are from Iran🗺️🛤️🧭.
+ We are from Iran🗺️🛤️🧭.
 
-6.Wishing success to all junior and senior programmers in the world🛤️🧭✨🌍.
+ Wishing success to all junior and senior programmers in the world🛤️🧭✨🌍.
