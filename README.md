@@ -8,13 +8,13 @@ Mr.Afshar responsible for the database.📈💾.
 
 I am also responsible for logic.🤔🧠.
 
-#This is our first group project💎🖌️👥.
+# This is our first group project💎🖌️👥.
 
-my teammate: https://github.com/maryamsorani2008 .👥📈.
+ my teammate: https://github.com/maryamsorani2008 .👥📈.
 
-me: https://github.com/Asmajamshidin2007 .👥📈.
+ me: https://github.com/Asmajamshidin2007 .👥📈.
 
-#We are learning C#🎓📒.Our teacher is: Ali Mohammad✍️📈.
+# We are learning C#🎓📒.Our teacher is: Ali Mohammad✍️📈.
 
 4.His github account: https://github.com/alimohammadi2005 .✒️🎓.
 
