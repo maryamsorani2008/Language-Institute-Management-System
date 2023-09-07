@@ -40,7 +40,7 @@
 
 
 
-## About us👥🤔:
+## About us👥:
 
 → We are from Iran🗺️🛤️🧭.
 
