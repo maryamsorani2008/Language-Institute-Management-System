@@ -50,7 +50,7 @@
 
  # We are learning C#🎓📒.
 
-→ Our teacher is: Ali Mohammadi✍️📈.
+→ Our teacher is:Mr.Ali Mohammadi✍️📈.
 
 → His github account: https://github.com/alimohammadi2005 .✒️🎓.
 
