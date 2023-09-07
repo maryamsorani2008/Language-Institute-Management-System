@@ -8,11 +8,18 @@
 
 → I am also responsible for logic.🤔🧠.
 
-# What is our goal for this project?🎓
 
-→
+# What is our goal for this project?🎓🎖️
 
+→ Our goal in this project is to learn the following topics:
 
+↻ Database creation(SQL Server)🛢️
+
+↻ Logic implementation🧠
+
+↻ User interface design🤳
+
+↻ 
 
 # This is our first group project💎🖌️👥.
 
@@ -25,11 +32,13 @@
  I don't know why he shouldn't be available now🤵‍♂️🤔.
 
 
+
 ## About us👥🤔:
 
 → We are from Iran🗺️🛤️🧭.
 
 → We are junior programmers🌍👻🤵‍♀️🤵‍♂️🤵‍♀️.
+
 
 
  # We are learning C#🎓📒.
