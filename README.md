@@ -11,7 +11,7 @@
 
 # What is our goal for this project?🎓🎖️
 
-→ Our goal in this project is to learn the following topics:
+→ learn the following topics:
 
 ↻ Database creation(SQL Server)🛢️
 
@@ -19,7 +19,14 @@
 
 ↻ User interface design🤳
 
-↻ 
+→ Measuring our abilities🤏💪
+
+→ Creating a language school management system📈
+
+→ Transferring abilities and learning from teammates🧠👉🧠
+
+→ Accurate implementation of the program and database and correctly connecting the database to the program🛢️📲
+
 
 # This is our first group project💎🖌️👥.
 
