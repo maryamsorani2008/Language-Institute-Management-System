@@ -2,11 +2,11 @@
 
 → Our project is about Language Schools management📒🗞️:
 
-→ Miss. Sorani is responsible for the user interface🙇‍♀️🤳.
+→ Maryam Sorani is responsible for the user interface🙇‍♀️🤳.
 
-→ Mr.Afshar responsible for the database.📈💾.
+→ Ilya Afshar is responsible for the database.📈💾.
 
-→ I am also responsible for logic.🤔🧠.
+→  Asma jamshidian is also responsible for logic.🤔🧠.
 
 
 # What is our goal for this project?🎓🎖️
