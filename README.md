@@ -1,15 +1,15 @@
 # Language-Schools-Management-System📚✏️📑.
 
-→ Our project is about Language Schools management📒🗞️:
+→ Our project is about Language Schools management:
 
-→ Maryam Sorani is responsible for the user interface🙇‍♀️🤳.
+→ Maryam Sorani is responsible for the user interface🤳.
 
-→ Ilya Afshar is responsible for the database.📈💾.
+→ Ilya Afshar is responsible for the database.💾.
 
-→  Asma jamshidian is also responsible for logic.🤔🧠.
+→  Asma jamshidian is also responsible for logic.🧠.
 
 
-# What is our goal for this project?🎓🎖️
+# What is our goal for this project?🎖️
 
 → learning the following topics:
 
@@ -19,16 +19,16 @@
 
 ↻ User interface design🤳
 
-→ Measuring our abilities🤏💪
+→ Measuring our abilities💪
 
 → Creating a language school management system📈
 
-→ Transferring abilities and learning from teammates🧠👉🧠
+→ Transferring abilities and learning from teammates.
 
-→ Accurate implementation of the program and database and correctly connecting the database to the program🛢️📲
+→ Accurate implementation of the program and database and correctly connecting the database to the program.
 
 
-# This is our first group project💎🖌️👥.
+# This is our first group project💎.
 
 → Maryam sorani: https://github.com/maryamsorani2008 .👩‍💻📈.
 
