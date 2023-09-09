@@ -52,7 +52,7 @@
 
 → Our teacher is:
 
-→ Mr.Ali Mohammadi https://github.com/alimohammadi2005 .✍️📈.
+→ Mr.Mohammadi https://github.com/alimohammadi2005 .✍️📈.
 
  
 
